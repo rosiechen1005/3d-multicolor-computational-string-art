@@ -1,6 +1,6 @@
 # 3D and Multicolor Computational String Art
 
-Extensions to computational string art: **3D voxel reconstruction**, **multicolor layered and unified pipelines**, **automated palette selection**, and **GPU-accelerated optimization**. Builds on [*String Art: Towards Computational Fabrication of String Images*](https://www.cg.tuwien.ac.at/research/publications/2018/Birsak2018-SA/) (Birsak et al., Eurographics 2018) — [project page](https://www.cg.tuwien.ac.at/research/publications/2018/Birsak2018-SA/) · [video](https://www.cg.tuwien.ac.at/research/publications/2018/Birsak2018-SA/Birsak2018-SA-video.mp4).
+Extensions to computational string art: **3D voxel reconstruction**, **multicolor layered and unified pipelines**, **automated palette selection**, and **GPU-accelerated optimization**. Builds on [*String Art: Towards Computational Fabrication of String Images*](https://www.cg.tuwien.ac.at/research/publications/2018/Birsak2018-SA/) (Birsak et al., Eurographics 2018)
 
 ---
 
@@ -27,7 +27,7 @@ Extensions to computational string art: **3D voxel reconstruction**, **multicolo
 
 | 2D monochrome | Multicolor (Floyd–Steinberg + per-color layers) | 3D (sphere on cubic frame) |
 |---------------|--------------------------------------------------|----------------------------|
-| ![Einstein monochrome](images/einstein_monochrome.png) | ![Deer multicolor](images/deer_multicolor.png) | ![Sphere string art](images/sphere%20string%20art.png) |
+| ![Einstein monochrome](images/einstein_monochrome.png) | ![Deer multicolor](images/deer_multicolor.png) | ![Torus string art](images/torus%20string%20art.png) |
 
 **Videos**
 
